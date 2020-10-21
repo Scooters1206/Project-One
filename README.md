@@ -38,6 +38,7 @@ Research Questions to Answer:
 
 Datasets to be Used:
 	https://www.kaggle.com/abdullahmu/big-five-stocks
+
 Tasks:
 -	Clean Data
 -	Analyze Data and Build Dataframe for Analysis
