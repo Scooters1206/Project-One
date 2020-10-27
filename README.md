@@ -12,19 +12,19 @@ Sydney Robertson
 James Williams
 
 
-Grading Files location -- Release(folder)
+   Grading Files location -- Release(folder)
 
-Code -- StarterCodeV2.10.ipynb
-
-
-Proposal -- Project 1 Proposal 1.2.docx
+     Code -- StarterCodeV2.10.ipynb
 
 
-Images -- images(folder)
+     Proposal -- Project 1 Proposal 1.2.docx
 
 
-write-up --
+     Images -- images(folder)
 
 
-presentation --
+     write-up --
+
+
+     presentation --
 
