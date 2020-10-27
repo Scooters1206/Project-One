@@ -19,3 +19,5 @@ James Williams
      write-up --
      presentation --
 
+######### NOTE########
+Plotly graphs will not show up in github
