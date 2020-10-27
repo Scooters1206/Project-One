@@ -15,8 +15,16 @@ James Williams
 Grading Files location -- Release(folder)
 
 Code -- StarterCodeV2.10.ipynb
+
+
 Proposal -- Project 1 Proposal 1.2.docx
+
+
 Images -- images(folder)
+
+
 write-up --
+
+
 presentation --
 
