@@ -17,6 +17,6 @@ James Williams
      Proposal -- Project 1 Proposal 1.2.docx
      Images -- images(folder)
      write-up -- Project One Analysis (doc and pdf)
-     presentation --
+     presentation -- Big 5 Stock Presentation
 
 ## NOTE -- Plotly graphs will not show up in github
