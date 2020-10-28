@@ -16,7 +16,7 @@ James Williams
      Code -- StarterCodeV2.10.ipynb
      Proposal -- Project 1 Proposal 1.2.docx
      Images -- images(folder)
-     write-up --
+     write-up -- Project One Analysis (doc and pdf)
      presentation --
 
 ## NOTE -- Plotly graphs will not show up in github
